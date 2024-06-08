@@ -4,7 +4,7 @@ This paper is accepted by IEEE Transactions on Emerging Topics in Computational 
 
 ### Overview
 
-This repository provides the main code for the paper, along with training and testing notebooks to facilitate quick experimentation on different datasets. We also provide the trained weights and preprocessed data for the Physionet dataset using a subject-dependent paradigm.
+This repository provides the main code for the paper, along with training and testing notebooks to facilitate quick experimentation on different datasets. We also provide the trained weights and preprocessed data (Creat a folder named "data" and download data through this link: https://pan.quark.cn/s/a5d9239401bb) for the Physionet dataset using a subject-dependent paradigm.
 
 The implementation references the repository
 "https://github.com/vermaMachineLearning/keras-deep-graph-learning"
